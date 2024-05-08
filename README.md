@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## useState in REACT:
 
-## Getting Started
+This is a simple project of REACT -- Mock-Up and Login Page.
 
-First, run the development server:
+## Author:
+Muhammad Tahir Iqbal. 
+https://github.com/qazimtahir/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tools used:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+VS Code - NODE JS - TypeScript - Next JS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Screenshots
+![App Screenshot](https://github.com/qazimtahir/mockup-react-thinking/blob/main/mockUp.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![App Screenshot](https://github.com/qazimtahir/mockup-react-thinking/blob/main/Login%20Screen.png)
 
-## Learn More
+## 🚀 About Me
 
-To learn more about Next.js, take a look at the following resources:
+Generative AI Engineer.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Master of Computer Sciences.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+I'm a full-stack developer...
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Date:
+May 9, 2024.
